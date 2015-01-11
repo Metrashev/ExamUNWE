@@ -1,0 +1,32 @@
+﻿input {
+    width: 175px;
+}
+
+select {
+    width: 100px;
+}
+
+.wrapper-panel {
+    width: 1045px;
+    background: cornsilk;
+}
+
+.recipient-panel {
+    background: antiquewhite;
+    float: left;
+    width: 45%!important;
+}
+
+.supplier-panel {
+    background: blanchedalmond;
+    float: left;
+    margin-left: 20px;
+}
+
+.service-panel {
+    width: 700px!important;
+    float: left;
+    margin-top: 20px;
+    background: aliceblue;
+}
+

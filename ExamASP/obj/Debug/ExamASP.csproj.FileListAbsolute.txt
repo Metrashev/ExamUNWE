@@ -1,0 +1,12 @@
+C:\ProjectsVS\ExamASP\ExamASP\bin\ExamASP.dll.config
+C:\ProjectsVS\ExamASP\ExamASP\bin\ExamASP.dll
+C:\ProjectsVS\ExamASP\ExamASP\bin\ExamASP.pdb
+C:\ProjectsVS\ExamASP\ExamASP\obj\Debug\ExamASP.csprojResolveAssemblyReference.cache
+C:\ProjectsVS\ExamASP\ExamASP\obj\Debug\ExamASP.dll
+C:\ProjectsVS\ExamASP\ExamASP\obj\Debug\ExamASP.pdb
+C:\Users\Vladimir\Desktop\ExamASP\ExamASP\bin\ExamASP.dll.config
+C:\Users\Vladimir\Desktop\ExamASP\ExamASP\bin\ExamASP.dll
+C:\Users\Vladimir\Desktop\ExamASP\ExamASP\bin\ExamASP.pdb
+C:\Users\Vladimir\Desktop\ExamASP\ExamASP\obj\Debug\ExamASP.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\ExamASP\ExamASP\obj\Debug\ExamASP.dll
+C:\Users\Vladimir\Desktop\ExamASP\ExamASP\obj\Debug\ExamASP.pdb

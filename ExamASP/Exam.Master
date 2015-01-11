@@ -1,0 +1,23 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Exam.master.cs" Inherits="ExamASP.Exam" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Exam</title>
+    <link href="Style/style.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            <asp:Panel ID="Panel1" runat="server" GroupingText="Изпит">
+                <p>Владимир Асенов Метрашев - Ф.Н. - 118018 </p>
+            </asp:Panel>
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
